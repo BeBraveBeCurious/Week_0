@@ -1,9 +1,11 @@
 __Student_TODO:__  
 
-< Insert Date >
+test infor
 
-< Insert Name >  
-Cohort < 1/2 >
+< October 7, 2021 >
+
+< Xiaomei Mi >  
+Cohort < 1 >
 
 
 ## Student Career Goal Statement 
