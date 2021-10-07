@@ -1,16 +1,11 @@
-__Student_TODO:__  
+October 7, 2021
 
-test infor
-
-< October 7, 2021 >
-
-< Xiaomei Mi >  
-Cohort < 1 >
+Xiaomei Mi
+Cohort 1 
 
 
 ## Student Career Goal Statement 
 
-   __Student_TODO:__ 
  
   < What is your career goal? (Think 5 year's from now) >  
   < Which financial services or products would you like to work with? >  
